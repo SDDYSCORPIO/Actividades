@@ -1,0 +1,41 @@
+{
+    "portada": "Danier Yesid Sanchez David",
+
+    "presentacion": "Soy Danier Sanchez Estudiante de Ingeniería De Sistemas con capacidad d interpretación y análisis de información, efectividad y trabajo colaborativo , aprendizaje rápido, capacidad de liderazgo, abierto al cambio, responsabilidad y valores éticos profesionales y personales.",
+
+    "habilidades": {
+
+        "Habilidad": {
+
+            "desc": "Conocimientos básicos en lenguajes de programación como Java, C#, .Net, estructuración y diseño de bases de datos en MySQL, SQL, estructuración de redes, mantenimiento de equipos de computo y utilización de metodologías ágiles",
+            "a": "Java _____________________________________________85%",
+            "b": "C# _______________________________________________80%",
+            "c": "HTML _____________________________________________60%",
+            "d": "CSS ______________________________________________70%",
+            "e": "JavaScript _________________________________________65%",
+            "f": "Estructuracion y diseño de base de datos ___________________90%"
+        }
+    },
+
+    "formacion": {
+
+        "primaria": "Luis Carlos Glan Sarmiento - Carepa - 2005",
+        "Bachiller": "Luis Carlos Galan Sarmiento - Carepa - 2016",
+        "Pregrado": "Universidad Católica Luis Amigó - Apartadó - 2017 - Actualidad",
+        "Noformal": "Cursos en YouTube"
+    },
+
+    "Idioma1": "Español - lengua nativa",
+    "Idioma2":"Inglés - intermedio",
+    
+    "contacto": {
+
+        "Ubicacion": "Colombia - Antioquia",
+        "Correo": "Danier.sanchezda@gmail.com",
+        "Telefono": "(+57) 3127261689",
+        "Redes sociales": {
+            "Facebook": "Danier Sanchez",
+            "Twitter": "@SDDY53114837"
+        }
+    }
+}
